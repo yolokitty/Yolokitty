@@ -4,16 +4,27 @@
 
 
 ### 🎓 Profile
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31045465d27180da9077eb19625e1913)
+
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notion.so/31045465d27180da9077eb19625e1913)
+
+👉 학력 및 자격증을 포함한 상세 프로필 보기
 
 
 ### 🚀 Projects
 
-* **[무대장치 프로젝트](https://github.com/yolokitty/Puppet-Show)**  - STM32 기반 타이머 선풍기 및 서보 모터 활용
+* **[무대장치 프로젝트](https://www.notion.so/31a45465d271806881c2efe158098156)**  
+  - STM32 기반 타이머 선풍기 및 서보 모터 활용
 
-* **[엘리베이터](https://github.com/yolokitty/Elevator)**  - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
+* **[엘리베이터](https://www.notion.so/31045465d27181ccb20dff8ea12b6a8c)**  
+  - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 
-* **[자율주행 RC카](https://github.com/yolokitty/Auto-Drive)**  - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
+* **[자율주행 RC카](https://www.notion.so/31945465d27180a583f3e30983dee1a6)**  
+  - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
+
+* **[ADT CAPS](https://www.notion.so/ADT-32645465d271807bafabee3db3bfa622)**  
+  - RFID와 통신을 포함한 택배 도둑 감지 시스템
+
+    
 ### 🖥️ Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
