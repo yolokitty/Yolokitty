@@ -10,7 +10,7 @@
 
 ### 🚀 Projects
 
-* **[무대장치 프로젝트](https://github.com/yolokitty/Elevator)**  - STM32 기반 타이머 선풍기 및 서보 모터 활용
+* **[무대장치 프로젝트](https://github.com/yolokitty/Puppet-Show)**  - STM32 기반 타이머 선풍기 및 서보 모터 활용
 
 * **[엘리베이터](https://github.com/yolokitty/Elevator)**  - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 
