@@ -1,22 +1,5 @@
-깃허브 포트폴리오 대문
 
-
-🤓Let me introduce myself
-
-<!--
-**MagicalSpinosaurus/MagicalSpinosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 주어진 상황에서 최선을 다하여 배움을 성과로 바꾸는 개발자입니다.
+🤓멈추지 않는 호기심을 가진 최적화를 좋아하는 개발자
 
 
 
@@ -25,9 +8,9 @@ Here are some ideas to get you started:
 * **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
 
 ### 🚀 Projects
-* **[선풍기](https://github.com/MagicalSpinosaurus/STM32_Pomodoro_Fan.git)** - STM32 기반 타이머 선풍기 및 서보 모터 활용
-* **[엘리베이터](https://github.com/MagicalSpinosaurus/Making_an_elevator.git)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
-* **[자율주행 RC카](https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
+* **[무대장치 프로젝트]([https://github.com/MagicalSpinosaurus/STM32_Pomodoro_Fan.git](https://github.com/yolokitty/Elevator))** - STM32 기반 타이머 선풍기 및 서보 모터 활용
+* **[엘리베이터](https://github.com/yolokitty/Elevator)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
+* **[자율주행 RC카]([https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git](https://github.com/yolokitty/Auto-Drive))** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
 
 ### 🖥️ Tech Stack
@@ -35,7 +18,9 @@ Here are some ideas to get you started:
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-31045465d27181fdaec2f777599a0a42)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.notion.so/Python-31045465d2718142aa47c9c953346fbc)
+[![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-31045465d271812b9884eace5a71dc60)
 
 **Embedded**
 
