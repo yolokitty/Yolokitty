@@ -3,9 +3,8 @@
 
 
 
-### 🎓 Experience
-* **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
-* **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
+### 🎓 Profile
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31045465d27180da9077eb19625e1913)
 
 
 ### 🚀 Projects
@@ -30,9 +29,4 @@
 [![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
 [![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-31045465d27181c3a820f096489f847d)
 ![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)
-
-**Tools**
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yolokitty)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31045465d27180da9077eb19625e1913)
 
