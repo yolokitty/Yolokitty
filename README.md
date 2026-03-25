@@ -7,14 +7,17 @@
 * **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
 * **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
 
+
 ### 🚀 Projects
-* **[무대장치 프로젝트]([https://github.com/MagicalSpinosaurus/STM32_Pomodoro_Fan.git](https://github.com/yolokitty/Elevator))** - STM32 기반 타이머 선풍기 및 서보 모터 활용
-* **[엘리베이터](https://github.com/yolokitty/Elevator)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
-* **[자율주행 RC카]([https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git](https://github.com/yolokitty/Auto-Drive))** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
+* **[무대장치 프로젝트](https://github.com/yolokitty/Elevator)**  - STM32 기반 타이머 선풍기 및 서보 모터 활용
 
+* **[엘리베이터](https://github.com/yolokitty/Elevator)**  - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
+
+* **[자율주행 RC카](https://github.com/yolokitty/Auto-Drive)**  - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 ### 🖥️ Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **Languages**
 
