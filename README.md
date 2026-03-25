@@ -27,7 +27,9 @@
 
 **Embedded**
 
-![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)
+[![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-31045465d27181c3a820f096489f847d)
+[![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
+![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
  **Tools**
  
