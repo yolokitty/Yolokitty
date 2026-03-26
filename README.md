@@ -5,9 +5,9 @@
 
 ### 🎓 Profile
 
-👉 학력 및 자격증을 포함한 상세 프로필 보기
+학력 및 자격증을 포함한 상세 프로필 보기
 
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notion.so/31045465d27180da9077eb19625e1913)
+👉 [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notion.so/31045465d27180da9077eb19625e1913)
 
 
 ### 🚀 Projects
