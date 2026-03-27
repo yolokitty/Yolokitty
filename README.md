@@ -9,35 +9,6 @@
 
 👉 [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notion.so/31045465d27180da9077eb19625e1913)
 
-### 🚀 Projects
-
-#### 🔹 STM32 Projects
-
-* **[무대장치 프로젝트](링크)**  
-  → 타이머 기반 선풍기 및 Servo 제어  
-
-* **[엘리베이터](링크)**  
-  → Stepper 및 센서 기반 층 제어 시스템  
-
-* **[자율주행 RC카](링크)**  
-  → 초음파 센서 기반 장애물 회피 주행  
-
-* **[ADT CAPS](링크)**  
-  → RFID 기반 택배 도난 방지 시스템  
-
-
-#### 🔹 Basys3 (FPGA / Verilog)
-
-* **[가산기](링크)**  
-* **[Comparator](링크)**  
-* **[Counter](링크)**  
-* **[Encoder](링크)**  
-
-
-#### 🔹 Other / IoT
-
-* (추가 프로젝트 들어갈 자리)
-* 
 
 ### 🚀 Projects
 
