@@ -1,8 +1,8 @@
-<h2>🤓 멈추지 않는 호기심을 가진 최적화를 좋아하는 개발자</h2>
+<p><b style="font-size:28px;">🤓 멈추지 않는 호기심을 가진 최적화를 좋아하는 개발자</b></p>
 
 <br>
 
-<h3>🎓 Profile</h3>
+<p><b style="font-size:22px;">🎓 Profile</b></p>
 
 학력 및 자격증을 포함한 상세 프로필 보기
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<h3>🚀 Projects</h3>
+<p><b style="font-size:22px;">🚀 Projects</b></p>
 
 * **[STM32](https://github.com/yolokitty?tab=repositories&q=stm32)**  
   - STM32 기반 무대장치, 엘레베이터, 자율주행, ADT_CAPS
@@ -20,11 +20,11 @@
 
 <br>
 
-<h3>🖥️ Tech Stack</h3>
+<p><b style="font-size:22px;">🖥️ Tech Stack</b></p>
 
 ---
 
-<h4>Languages</h4>
+<p><b>Languages</b></p>
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-31045465d27181fdaec2f777599a0a42)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.notion.so/Python-31045465d2718142aa47c9c953346fbc)
@@ -32,7 +32,7 @@
 
 <br>
 
-<h4>Embedded</h4>
+<p><b>Embedded</b></p>
 
 [![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
 [![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-31045465d27181c3a820f096489f847d)
