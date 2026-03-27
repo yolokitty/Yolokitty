@@ -37,11 +37,3 @@
 [![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
 [![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-31045465d27181c3a820f096489f847d)
 [![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32f45465d27180b7ad81e649b666325f)
-
-<br>
-
-**Embedded**
-
-[![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
-[![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-31045465d27181c3a820f096489f847d)
-[![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32f45465d27180b7ad81e649b666325f)
