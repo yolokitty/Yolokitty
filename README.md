@@ -30,7 +30,6 @@
 [![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-31045465d271812b9884eace5a71dc60)
 
 <br>
-
 <p><b>Embedded</b></p>
 
 [![ATmega128](https://img.shields.io/badge/ATmega128-%2300979D.svg?style=for-the-badge&logo=microchip&logoColor=white)](https://www.notion.so/ATMega-31a45465d271801ba708e14317bb7294)
