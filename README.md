@@ -14,8 +14,8 @@
 
 * **[STM32](https://github.com/yolokitty?tab=repositories&q=stm32)**  
   - STM32 기반 무대장치, 엘레베이터, 자율주행, ADT_CAPS
-* **[BASIS3](https://github.com/yolokitty?tab=repositories&q=basis3)**  
-  - BASIS3 기반 미니게임기
+* **[BASYS3](https://github.com/yolokitty?tab=repositories&q=basis3)**  
+  - BASYS3 기반 미니게임기
 
 <br>
 
