@@ -4,9 +4,9 @@
 
 <p><b style="font-size:22px;">🎓 Profile</b></p>
 
-학력 및 자격증을 포함한 상세 프로필 보기 (현재는 구직기간이 아니므로 비활성화 해두었습니다.)
+학력 및 자격증을 포함한 상세 프로필 보기
 
-&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=노션영어로)](https://www.notio.so/31045465d27180da9077eb19625e1913)
+&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notio.so/31045465d27180da9077eb19625e1913)
 
 <br>
 
