@@ -16,7 +16,7 @@
   - STM32 기반 무대장치, 엘레베이터, 자율주행, ADT_CAPS
 * **[BASYS3](https://github.com/yolokitty?tab=repositories&q=basis3)**  
   - BASYS3 기반 미니게임기
-* **[VHDL](https://github.com/yolokitty?tab=repositories&q=vhdl)**
+* **[VHDL](https://github.com/yolokitty?tab=repositories&q=vhdl+verilog)**
   - VHDL 기반 A/B 증분형 인코더, Tamagawa 절대형 인코더
 
 <br>
