@@ -17,7 +17,7 @@
 * **[BASYS3](https://github.com/yolokitty?tab=repositories&q=basis3)**  
   - BASYS3 기반 미니게임기
 * **[VHDL](https://github.com/yolokitty?tab=repositories&q=vhdl)**
-  - VHDL 기반 A/B 증분형 인코더, Tamagawa 절대형 인코더
+  - VHDL 기반 A/B 증분형 인코더, Tamagawa 절대형 인코더, BiSS 인코더, Sigma Delta 전압측정
 
 <br>
 
